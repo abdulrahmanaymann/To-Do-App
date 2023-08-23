@@ -12,11 +12,9 @@ A simple TODO app built using Flutter that helps you manage your tasks efficient
 
 ## Screenshots
 
-<div style="max-width: 100%; display: flex; justify-content: center;">
-  <img src="1.png" alt="Light Theme homepage" style="max-width: 100%; height: auto;">
-  <img src="2.png" alt="Dark Theme homepage" style="max-width: 100%; height: auto;">
-  <img src="3.png" alt="Add Task Page" style="max-width: 100%; height: auto;">
-</div>
+<img src="1.png" alt="Light Theme homepage" width="400">
+<img src="2.png" alt="Dark Theme homepage" width="400">
+<img src="3.png" alt="Add Task Page" width="400">
 
 ## Getting Started
 
