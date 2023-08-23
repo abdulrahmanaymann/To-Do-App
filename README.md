@@ -12,9 +12,9 @@ A simple TODO app built using Flutter that helps you manage your tasks efficient
 
 ## Screenshots
 
-![Light Theme homepage](1.png?width=200)
-![Dark Theme homepage](2.png?width=200)
-![Add Task Page](3.png?width=200)
+<img src="1.png" alt="Light Theme homepage" width="400">
+<img src="2.png" alt="Dark Theme homepage" width="400">
+<img src="3.png" alt="Add Task Page" width="400">
 
 ## Getting Started
 
