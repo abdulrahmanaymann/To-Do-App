@@ -1,4 +1,3 @@
-```markdown
 # TODO App with Flutter
 
 A simple TODO app built using Flutter that helps you manage your tasks efficiently.
