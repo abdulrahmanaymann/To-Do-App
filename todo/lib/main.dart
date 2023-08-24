@@ -7,6 +7,7 @@ import 'package:todo/ui/theme.dart';
 
 import 'db/db_helper.dart';
 
+//future
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await DBHelper.initDb();
